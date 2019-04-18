@@ -1,0 +1,2 @@
+An application to implement a dictionary .
+If the word is not found the dictionary will say the word is not found and will auto suggest word that are close to the word entered.
