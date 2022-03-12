@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1647096883 source:c:\users\adinkar\desktop\personal\personal projects\cb\cb\tries\tries_search\source\main.cpp
+	<iostream>
+	"../header/tries.h"
+	"../header/utility.h"
+
+1647092439 c:\users\adinkar\desktop\personal\personal projects\cb\cb\tries\tries_search\header\tries.h
+	<string.h>
+	<vector>
+	"utility.h"
+
+1647089899 c:\users\adinkar\desktop\personal\personal projects\cb\cb\tries\tries_search\header\utility.h
+	<fstream>
+	<string>
+	<vector>
+
+1647094572 source:c:\users\adinkar\desktop\personal\personal projects\cb\cb\tries\tries_search\source\tries.cpp
+	"../header/tries.h"
+
+1647096943 source:c:\users\adinkar\desktop\personal\personal projects\cb\cb\tries\tries_search\source\utility.cpp
+	"../header/utility.h"
+	<iostream>
+
