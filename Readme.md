@@ -12,3 +12,6 @@
 ### For learing more about tries data structure follow the link
 
 <a href="https://www.geeksforgeeks.org/trie-insert-and-search/" target="blank"><img src="https://img.shields.io/badge/-https%3A%2F%2Fwww.geeksforgeeks.org%2Ftrie--insert--and--search%2F-brightgreen" /></a>
+
+
+### <span>&#9888;</span>IGNORE THE OLD DICTIONARY PROJECT AND DICTIONARY README.
