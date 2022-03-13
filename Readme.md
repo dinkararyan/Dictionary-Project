@@ -6,6 +6,7 @@
  --> The tree keeps a track of each word by marking the last character of the word.<br>
  --> While seaching for a string, the tries data structure just have to traverse downwards from the root node.<br>
  --> If all the character of the search string are present and the current node (where the traversal has ended) is marked to depict end of the word, then we can mark the word as found.<br>
+ --> Time Complexity - O(n) {n -> length of the string to be searched}<br>
  
  ### For learing more about tries data structure follow the link
 
